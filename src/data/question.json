@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "question": "Kháng sinh nào sau đây thường được dùng trong dự phòng nhiễm khẩn vết mổ?",
+        "correct": "Cefazolin",
+        "options": [
+            "Gentamicin",
+            "Cefazolin",
+            "Meropenem",
+            "Aztreonam"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Thuốc clarithromycin thuộc nhóm dược lý nào sau đây?",
+        "correct": "Macrolide",
+        "options": [
+            "B-lactam",
+            "Aminoglycoside",
+            "Macrolide",
+            "B-blocker"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Tác động bất lợi nào sau đây là của thuốc kháng sinh nhóm aminoglycoside?",
+        "correct": "Độc thận",
+        "options": [
+            "Tăng đường huyết",
+            "Độc gan",
+            "Độc thận",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Bệnh nhân nam, 45 tuổi, được chẩn đoán viêm ruột kết màng giả do Clostridium difficile. Thuốc nào sau đây nên được chỉ định ở bệnh nhân này?",
+        "correct": "Tất cả đều sai",
+        "options": [
+            "Ceftriaxone IV",
+            "Vancomycin PIV",
+            "Gentamicin IV",
+            "Tất cả đều sai"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Tác động bất lợi nào sau đây là của thuốc kháng sinh ciprofloxacin?",
+        "correct": "Cảm ứng viêm đại tràng giả mạc do C. difficile",
+        "options": [
+            "Cảm ứng viêm đại tràng giả mạc do C. difficile",
+            "Ức chế sự phát triển của xương",
+            "Tăng huyết áp",
+            "Tất cả đều sai"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Kháng sinh nào sau đây không ức chế sự tổng hợp thành tế bào vi khuẩn?",
+        "correct": "Amikacin",
+        "options": [
+            "Amikacin",
+            "Vancomycin",
+            "Meropenem",
+            "Aztreonam"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Kháng sinh nào sau đây thuộc nhóm aminoglycoside?",
+        "correct": "Gentamicin",
+        "options": [
+            "Gentamicin",
+            "Azithromycin",
+            "Metronidazole",
+            "Gentamicin và Azithromycin"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Phát biểu nào sau đây là đúng về việc sử dụng thuốc kháng sinh?",
+        "correct": "Doxycycline gây loét thực quản uống ở tư thế thẳng đứng với nhiều nước",
+        "options": [
+            "Doxycycline có thể gây viêm gần gót tránh dùng cho trẻ em < 8 tuổi",
+            "Không cần chỉnh liều minocycline ở bệnh nhân suy thận",
+            "Doxycycline gây loét thực quản uống ở tư thế thẳng đứng với nhiều nước",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Kháng sinh nào sau đây là kháng sinh điều trị theo kinh nghiệm ưu tiên ở bệnh nhân bị viêm tai giữa?",
+        "correct": "Amoxicillin",
+        "options": [
+            "Neomycin",
+            "Ciprofloxacin",
+            "Cefalexin",
+            "Amoxicillin"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Kháng sinh nào sau đây là lựa chọn ưu tiên trong điều trị theo kinh nghiệm ở bệnh nhân được chẩn đoán viêm phổi bệnh viện do P. aeruginosa?",
+        "correct": "Neomycin và Ciprofloxacin",
+        "options": [
+            "Neomycin",
+            "Ciprofloxacin",
+            "Cefalexin",
+            "Neomycin và Ciprofloxacin"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Tác động bất lợi nào sau đây là của thuốc amoxicillin?",
+        "correct": "Phản ứng quá mẫn",
+        "options": [
+            "Phản ứng quá mẫn",
+            "Kéo dài khoảng QT",
+            "Loét thực quản",
+            "Độc thân"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Tác động bất lợi của vancomycin PIV?",
+        "correct": "Hội chứng cổ đỏ",
+        "options": [
+            "Độc gan",
+            "Hội chứng cổ đỏ",
+            "Viêm ruột kết màng giả do nhiễm C. dificile",
+            "Hội chứng cổ đỏ và Viêm ruột kết màng giả do nhiễm C. dificile"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Bệnh nhân có tiền sử dị ứng penicillin có thể sử dụng kháng sinh nào sau đây?",
+        "correct": "Aztreonam",
+        "options": [
+            "Cefalexin",
+            "Amoxicillin",
+            "Aztreonam",
+            "Tất cả đều sai"
+        ]
+    },
+    {
+        "id": 14,
+        "question": "Quinolone hô hấp là thuốc nào sau đây?",
+        "correct": "Levofloxacin",
+        "options": [
+            "Netilmicin",
+            "Ciprofloxacin",
+            "Levofloxacin",
+            "Ciprofloxacin và Levofloxacin"
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Tác động bất lợi nào sau đây là của thuốc gentamicin?",
+        "correct": "Tất cả đều đúng",
+        "options": [
+            "Độc tại",
+            "Độc thận",
+            "Ức chế thần kinh cơ",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Thuốc nào sau đây là thuốc kháng viêm không steroid ức chế COX-2 chọn lọc?",
+        "correct": "Etoricoxib",
+        "options": [
+            "Meloxicam",
+            "Aspirin",
+            "Etoricoxib",
+            "Ibuprofen"
+        ]
+    },
+    {
+        "id": 17,
+        "question": "Tác động bất lợi nào sau đây có thể xảy ra khi dùng thuốc kháng viêm không steroid?",
+        "correct": "Phù",
+        "options": [
+            "Tăng đường huyết",
+            "Hạ huyết áp",
+            "Phù",
+            "Hạ huyết áp và Phù"
+        ]
+    },
+    {
+        "id": 18,
+        "question": "Phát biểu nào sau đây là đúng về việc sử dụng thuốc aspirin?",
+        "correct": "Aspirin chống chỉ định hạ sốt cho bệnh nhi bị sốt siêu vi",
+        "options": [
+            "Liều aspirin dùng trong phòng ngừa tái nhồi máu cơ tim là 325 mg, 1 lần/ngày",
+            "Liều aspirin trong phòng ngừa ung thư đại tràng là 500 mg, 1 lần/ngày",
+            "Aspirin chống chỉ định hạ sốt cho bệnh nhi bị sốt siêu vi",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Để giảm tác động bất lợi trên tiêu hóa của thuốc kháng viêm không steroid, cách sử dụng thuốc nào sau đây là phù hợp?",
+        "correct": "Dùng kèm thuốc ức chế bơm proton",
+        "options": [
+            "Sử dụng thuốc trước ăn 30 phút",
+            "Dùng kèm thuốc mifepristone",
+            "Dùng kèm thuốc ức chế bơm proton",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 20,
+        "question": "Thuốc nào sau đây là thuốc kháng histamine H1 thế hệ 2?",
+        "correct": "Cetirizin",
+        "options": [
+            "Chloramphenicol",
+            "Cetirizin",
+            "Diphenhydramin",
+            "Chloramphenicol và Diphenhydramin"
+        ]
+    },
+    {
+        "id": 21,
+        "question": "Thuốc nào sau đây có chỉ định trong điều trị nôn và buồn nôn ở phụ nữ có thai?",
+        "correct": "Doxylamin",
+        "options": [
+            "Chlorpheniramin",
+            "Ciproheptadine",
+            "Dimenhydrinate",
+            "Doxylamin"
+        ]
+    },
+    {
+        "id": 22,
+        "question": "Chỉ định nào sau đây là của thuốc kháng histamine H1?",
+        "correct": "Di ung",
+        "options": [
+            "Loét dạ dày",
+            "Di ung",
+            "Kháng viêm",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 23,
+        "question": "Tác động bất lợi nào sau đây là của thuốc kháng histamine H1?",
+        "correct": "Buồn ngủ",
+        "options": [
+            "Buồn ngủ",
+            "Tăng đường huyết",
+            "Tăng huyết áp",
+            "Phù ngoại biên"
+        ]
+    },
+    {
+        "id": 24,
+        "question": "Liều tối đa của paracetamol đường uống với chỉ định đau đầu ở bệnh nhân không có bệnh kèm khác?",
+        "correct": "4 g/ngày",
+        "options": [
+            "8 g/ngày",
+            "4 g/ngày",
+            "2 g/ngày",
+            "4 mg/ngày"
+        ]
+    },
+    {
+        "id": 25,
+        "question": "Albuterol thuộc nhóm dược lý nào sau đây?",
+        "correct": "Chủ vận thụ thể b2 – adrenergic tác dụng ngắn",
+        "options": [
+            "Đối kháng muscarinic tác dụng dài",
+            "Chủ vận thụ thể b2 – adrenergic tác dụng ngắn",
+            "Chủ vận thụ thể b2 – adrenergic tác dụng dài",
+            "Đối kháng muscarinic tác dụng ngắn"
+        ]
+    },
+    {
+        "id": 26,
+        "question": "Thuốc nào sau đây là corticosteroid có trong các chế phẩm dùng đường hít điều trị hen phế quản?",
+        "correct": "Fluticasone và Budesonide",
+        "options": [
+            "Dexamethsone",
+            "Fluticasone",
+            "Budesonide",
+            "Fluticasone và Budesonide"
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Phát biểu nào sau đây là đúng về thuốc họ?",
+        "correct": "Tất cả đều đúng",
+        "options": [
+            "N-acetyl cysteine là thuốc long đàm",
+            "An toàn cao nên có nhiều thuốc thuộc nhóm không kê toa (OTC) nhưng hiệu quả của thuốc không rõ rệt",
+            "Dextromethorphan có tác động gây ngủ ít hơn so với codein",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 28,
+        "question": "Phát biểu nào sau đây là đúng về sử dụng corticoid đường hit trong điều trị hen phế quản?",
+        "correct": "Tác động bất lợi trên tim mạch ít hơn so với corticoid dùng đường uống",
+        "options": [
+            "Thuốc được dùng để cắt cơn khi bệnh nhân lên cơn co thắt phế quản",
+            "Cần súc họng sau khi sử dụng thuốc để giảm tác động bất lợi gây phù thanh quản của thuốc",
+            "Tác động bất lợi trên tim mạch ít hơn so với corticoid dùng đường uống",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 29,
+        "question": "Tác động bất lợi nào sau đây là của thuốc đối kháng thụ thể muscarinic?",
+        "correct": "Khô miệng",
+        "options": [
+            "Chậm nhịp tim",
+            "Hạ huyết áp",
+            "Khô miệng",
+            "Tất cả đều đúng"
+        ]
+    },
+    {
+        "id": 30,
+        "question": "Thuốc nào sau đây là thuốc họ long dom?",
+        "correct": "Bromhexin",
+        "options": [
+            "Bromhexin",
+            "Codein",
+            "Dextromethorphan",
+            "A, C đúng"
+        ]
+    }
+]
