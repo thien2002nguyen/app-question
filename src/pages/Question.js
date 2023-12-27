@@ -98,7 +98,7 @@ const Question = () => {
                     Câu {index + 1}: {nowQuestions?.question}
                 </p>
             </div>
-            <div className='absolute top-48 left-0 z-10 w-full flex flex-col items-center gap-4'>
+            <div className='absolute top-56 left-0 z-10 w-full flex flex-col items-center gap-4'>
                 {options?.map((item, index) => (
                     <button
                         key={index}
